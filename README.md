@@ -1,2 +1,3 @@
 # pets-card
-card by using css nd html
+card by using css nd html.
+card hover effects
